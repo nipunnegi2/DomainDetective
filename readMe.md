@@ -1,4 +1,4 @@
-# Domain Analyzer
+# Domain Analyzer #
 
 Domain Analyzer is a web application that provides detailed information about a domain name. It includes registration details, DNS records, IP address, location, and security analysis.
 
