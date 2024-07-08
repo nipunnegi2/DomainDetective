@@ -8,10 +8,10 @@ import requests
 app = Flask(__name__)
 
 # VirusTotal API Key
-API_KEY = '7c7063a8507b02c5a285b6142e1e4e0ca56ee373607251c40e31a10be8bf18d2'
+API_KEY = 'Add your API KEY!'
 
 # IPInfo API Key
-IPINFO_API_KEY = 'c0ec2816fd3065'
+IPINFO_API_KEY = 'Add your API KEY!'
 
 def get_domain_info(domain_name):
     domain_info = whois.whois(domain_name)
